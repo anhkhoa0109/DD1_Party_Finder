@@ -1,0 +1,9 @@
+{
+  "name": "DD1 Party Finder",
+  "short_name": "DD1 Finder",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#17130f",
+  "theme_color": "#17130f",
+  "icons": []
+}
