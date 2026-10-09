@@ -2,6 +2,8 @@
 
 Mobile-first offline/PWA party planner for Darkest Dungeon 1.
 
+https://anhkhoa0109.github.io/DD1_Party_Finder/
+
 ## Included
 - Individual recruited hero instances.
 - READY / NOT READY per individual hero instance.
