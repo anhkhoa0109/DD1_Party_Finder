@@ -7,7 +7,7 @@
       "abbr": "Abom",
       "role": "Transformation / stun / blight",
       "note": "Versatile front-midline damage; can stress-heal.",
-      "portrait": "portraits/abomination.svg",
+      "portrait": "portraits/abomination.png",
       "optional": false
     },
     {
@@ -16,7 +16,7 @@
       "abbr": "Anti",
       "role": "Gold farming / dodge / guard",
       "note": "Weak alone, but excellent for money runs and Protect Me setups.",
-      "portrait": "portraits/antiquarian.svg",
+      "portrait": "portraits/antiquarian.png",
       "optional": false
     },
     {
@@ -25,7 +25,7 @@
       "abbr": "Arb",
       "role": "Mark / ranged burst / heal support",
       "note": "Strong ranged damage and excellent mark follow-up.",
-      "portrait": "portraits/arbalest.svg",
+      "portrait": "portraits/arbalest.png",
       "optional": false
     },
     {
@@ -34,7 +34,7 @@
       "abbr": "BH",
       "role": "Mark / stun / pull",
       "note": "Excellent control and burst against marked targets.",
-      "portrait": "portraits/bounty_hunter.svg",
+      "portrait": "portraits/bounty_hunter.png",
       "optional": false
     },
     {
@@ -43,7 +43,7 @@
       "abbr": "Cru",
       "role": "Frontline / stun / stress heal",
       "note": "Reliable frontline with strong sustain and utility.",
-      "portrait": "portraits/crusader.svg",
+      "portrait": "portraits/crusader.png",
       "optional": false
     },
     {
@@ -52,7 +52,7 @@
       "abbr": "Flag",
       "role": "Bleed / sustain / emergency heal",
       "note": "Excellent bleed, self-sustain and recovery at low HP.",
-      "portrait": "portraits/flagellant.svg",
+      "portrait": "portraits/flagellant.png",
       "optional": false
     },
     {
@@ -61,7 +61,7 @@
       "abbr": "GR",
       "role": "Lunge / mobility / burst",
       "note": "High damage and flexible dancing positions.",
-      "portrait": "portraits/grave_robber.svg",
+      "portrait": "portraits/grave_robber.png",
       "optional": false
     },
     {
@@ -70,7 +70,7 @@
       "abbr": "Hel",
       "role": "Frontline / stun / reach",
       "note": "Strong frontline damage with useful backline reach.",
-      "portrait": "portraits/hellion.svg",
+      "portrait": "portraits/hellion.png",
       "optional": false
     },
     {
@@ -79,7 +79,7 @@
       "abbr": "HWM",
       "role": "Riposte / dance / burst",
       "note": "Excellent damage when built around Duelist's Advance and positioning.",
-      "portrait": "portraits/highwayman.svg",
+      "portrait": "portraits/highwayman.png",
       "optional": false
     },
     {
@@ -88,7 +88,7 @@
       "abbr": "HM",
       "role": "Mark / bleed / stress heal",
       "note": "Flexible support, mark damage and stress healing.",
-      "portrait": "portraits/houndmaster.svg",
+      "portrait": "portraits/houndmaster.png",
       "optional": false
     },
     {
@@ -97,7 +97,7 @@
       "abbr": "Jes",
       "role": "Stress heal / buffs / bleed",
       "note": "Outstanding Battle Ballad and stress recovery.",
-      "portrait": "portraits/jester.svg",
+      "portrait": "portraits/jester.png",
       "optional": false
     },
     {
@@ -106,7 +106,7 @@
       "abbr": "Lep",
       "role": "Frontline / high damage / self heal",
       "note": "Huge frontline damage when accuracy and reach are supported.",
-      "portrait": "portraits/leper.svg",
+      "portrait": "portraits/leper.png",
       "optional": false
     },
     {
@@ -115,7 +115,7 @@
       "abbr": "MAA",
       "role": "Guard / buffs / riposte / stun",
       "note": "Defensive anchor that protects fragile cores.",
-      "portrait": "portraits/man_at_arms.svg",
+      "portrait": "portraits/man_at_arms.png",
       "optional": false
     },
     {
@@ -124,7 +124,7 @@
       "abbr": "Occ",
       "role": "Heal / mark / pull / stun",
       "note": "Excellent backline utility and mark support; heal is variable.",
-      "portrait": "portraits/occultist.svg",
+      "portrait": "portraits/occultist.png",
       "optional": false
     },
     {
@@ -133,7 +133,7 @@
       "abbr": "PD",
       "role": "Blight / stun / utility",
       "note": "Outstanding backline control and DoT support.",
-      "portrait": "portraits/plague_doctor.svg",
+      "portrait": "portraits/plague_doctor.png",
       "optional": false
     },
     {
@@ -142,7 +142,7 @@
       "abbr": "Ves",
       "role": "Reliable heal / stun",
       "note": "Most straightforward general-purpose healer.",
-      "portrait": "portraits/vestal.svg",
+      "portrait": "portraits/vestal.png",
       "optional": false
     },
     {
@@ -151,7 +151,7 @@
       "abbr": "SB",
       "role": "Armor piercing / dance / blight",
       "note": "Mobile damage dealer with strong rank flexibility.",
-      "portrait": "portraits/shieldbreaker.svg",
+      "portrait": "portraits/shieldbreaker.png",
       "optional": false
     },
     {
@@ -160,7 +160,7 @@
       "abbr": "Mus",
       "role": "Ranged / mark / heal support",
       "note": "Arbalest-style ranged support; included as an optional roster class.",
-      "portrait": "portraits/musketeer.svg",
+      "portrait": "portraits/musketeer.png",
       "optional": true
     }
   ],

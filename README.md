@@ -15,7 +15,7 @@ https://anhkhoa0109.github.io/DD1_Party_Finder/
 - LocalStorage autosave + JSON Export/Import.
 - Offline PWA / GitHub Pages friendly.
 - Phone-first vertical layout for iPhone XR and similar screens.
-- Bundled original vector portrait placeholders for offline use.
+- Bundled PNG portraits for offline use; Musketeer uses a temporary PNG placeholder.
 
 ## Hero coverage
 - Abomination: 4 parties
