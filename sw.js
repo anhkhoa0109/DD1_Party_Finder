@@ -1,4 +1,4 @@
-const CACHE = 'dd1-party-finder-v1-3-roster-controls';
+const CACHE = 'dd1-party-finder-v1-4-custom-parties';
 const PORTRAITS = [
 	'abomination', 'antiquarian', 'arbalest', 'bounty_hunter', 'crusader',
 	'flagellant', 'grave_robber', 'hellion', 'highwayman', 'houndmaster',

@@ -13,6 +13,7 @@ https://anhkhoa0109.github.io/DD1_Party_Finder/
 - Rating, Best For, Strengths and Weaknesses.
 - Search; dedicated Party Filter intentionally deferred.
 - LocalStorage autosave + JSON Export/Import.
+- Add custom parties with a name, location, and ranked heroes; saved parties appear under Recommended and are included in exports.
 - Offline PWA / GitHub Pages friendly.
 - Phone-first vertical layout for iPhone XR and similar screens.
 - Bundled PNG portraits for offline use; Musketeer uses a temporary PNG placeholder.
